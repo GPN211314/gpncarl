@@ -1,4 +1,6 @@
-# ![](/home/carl/Program/手动造词/2.png)
+# ![](2.png)
+
+
 
 
 
